@@ -1,4 +1,6 @@
 Testes de Modelos de Reconhecimento de Fala para Dublagem de Vídeos do YouTube
+
+
 Este projeto tem como objetivo avaliar diferentes modelos de reconhecimento de fala (Speech-to-Text - STT) para identificar a solução mais eficaz na dublagem de vídeos do YouTube em múltiplos idiomas, visando ampliar a acessibilidade do conteúdo.
 
 Índice
